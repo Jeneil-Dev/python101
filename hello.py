@@ -129,3 +129,6 @@ print(f"PRICE: {itemPrice2}")
 print(f"QUANTITY: {quantity2}")
 print(f"TOTAL: ${totalCost2}")
 # print(f"TOTAL: ${roundedCost2}")
+
+print("creating this for an update")
+print("practice")
